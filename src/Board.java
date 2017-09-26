@@ -4,7 +4,7 @@ import static java.lang.Math.*;
 import java.util.Random;
 import static org.junit.Assert.*;
 import org.junit.Test;
-
+//Git edit
 class Board{
 	int difficulty;
 	boolean lost;
