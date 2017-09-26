@@ -5,12 +5,13 @@ public class Player {
 	private long time;
 	private int score;
 	private String model;
-	
+	//Commenting for GITHUB: Jama Yusuf, jyusuf, 9/26/17
+	//I changed the model variable string from "X" to "C"
 	
 	public Player(int height, int width) {
 		Xcoord = width/2;
 		Ycoord = height;
-		model = "X";
+		model = "C";
 		this.time = System.currentTimeMillis();
 		this.score  = 0;
 	}
