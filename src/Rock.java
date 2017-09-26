@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class Rock {
-
+	/* Eric Allen is adding comments to complete lab 5.*/
 	private int xCoord;
 	private int yCoord;
 	private Random gen = new Random();
